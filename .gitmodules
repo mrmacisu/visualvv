@@ -1,0 +1,3 @@
+[submodule "visualvv"]
+	path = visualvv
+	url = https://github.com/mrmacisu/visualvv.git
